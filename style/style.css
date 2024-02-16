@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+   
+}
+/* 1st banner section */
+.banner-1{
+    background-image: url(../resources/Banner\ Image.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #FFF;
+    margin:50px 50px;
+    border-radius: 16px;
+    padding-right: 60px;
+    padding-bottom:23px;
+
+}
+.head-p{
+padding-top:177px;
+font-size: 32px;
+font-weight:
+ 400;
+
+
+}
+.banner-1>h2{
+padding-bottom:177px;;
+font-size: 72px;
+font-weight: 900;
+
+}
